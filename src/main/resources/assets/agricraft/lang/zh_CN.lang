@@ -218,7 +218,7 @@ agricraft_tooltip.none=无
 agricraft_description.peripheralHelp=Method Help
 agricraft_description.method.analyze=Orders the analyzer to analyze the current specimen
 agricraft_description.method.getBaseBlock=Returns the necessary base block for the crop at the specified direction or the specimen in the analyzer if no direction is specified
-agricraft_description.method.getBaseBlockType=Returns the base block type (NONE，BELOW，NEAR) for the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getBaseBlockType=Returns the base block type (NONE, BELOW, NEAR) for the crop at the specified direction or the specimen in the analyzer if no direction is specified
 agricraft_description.method.getBrightness=Returns the current light level for the crop at the specified direction
 agricraft_description.method.getBrightnessRange=Returns the required light level range for the crop at the specified direction or the specimen in the analyzer if no direction is specified
 agricraft_description.method.getCurrentSoil=Returns the current soil below the crop at the specified direction or the specimen in the analyzer if no direction is specified
@@ -226,11 +226,11 @@ agricraft_description.method.getGrowthStage=Returns the growth percentage of the
 agricraft_description.method.getNeededSoil=Returns the required soil for the crop at the specified direction or the specimen in the analyzer if no direction is specified
 agricraft_description.method.getPlant=Returns the seed currently planted on the crop at the specified direction
 agricraft_description.method.getSpecimen=Returns the specimen currently in the analyzer
-agricraft_description.method.getStats=Returns the stats [growth，gain，strength] of crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getStats=Returns the stats [growth, gain, strength] of crop at the specified direction or the specimen in the analyzer if no direction is specified
 agricraft_description.method.hasJournal=Returns if the analyzer has a journal
 agricraft_description.method.hasPlant=Returns if there is a plant on the crop sticks at the specified direction
 agricraft_description.method.hasWeeds=Returns if there are weeds on the crop at the specified direction
-agricraft_description.method.isAnalyzed=Returns if the crop at the specified direction，or the specimen in the analyzer (if no direction is specified) is analyzed
+agricraft_description.method.isAnalyzed=Returns if the crop at the specified direction, or the specimen in the analyzer (if no direction is specified) is analyzed
 agricraft_description.method.isCrossCrop=Returns if the crop at the specified direction is a cross crop
 agricraft_description.method.isFertile=Returns if the crop at the specified direction is fertile and can grow
 agricraft_description.method.isMature=Returns if the crop crop at the specified direction is mature
@@ -434,7 +434,7 @@ agricraft_journal.pc_tobacco=即使有害健康，世界各地都在吸烟。
 agricraft_journal.pc_coffeaCherries=咖啡豆是咖啡植物的种子，也是制作咖啡的原料，因为紫红色果实里的小坑，它也常被称为一种樱桃。
 
 //blue power flax
-agricraft_journal.bp_flax_seeds=亚麻就是线 ~Sjin.
+agricraft_journal.bp_flax_seeds=亚麻就是线 ~Sjin。
 
 //pneumaticCraft plants
 agricraft.journal_PC.plant0=这种植物的花蕾中有有时会携带种子的鱿鱼。
@@ -468,7 +468,7 @@ agricraft_journal.EBXL_strawberry=草莓很受欢迎，适合种植于家庭环�
 agricraft_journal.BoP_turnip=芜菁是一种根状蔬菜，在世界范围内通常在温和的气候下种植，因为其白色的块状主根。
 
 //lord of the rings
-agricraft_journal.lotr_flaxSeeds=亚麻就是线 ~Sjin.
+agricraft_journal.lotr_flaxSeeds=亚麻就是线 ~Sjin。
 agricraft_journal.lotr_lettuce=通常作为种耐寒的一年生作物，莴苣是很容易培养的，尽管它仍需要较低温度以避免过早开花。
 agricraft_journal.lotr_pipeweedSeeds=烟斗草（又叫半身人之叶）是一种烟草，类似于普通烟草，由夏尔的霍比特人栽培并享用，最早发现者是托博德·吹号。
 
@@ -505,7 +505,7 @@ agricraft_journal.millenaire_cropRice=传统的培育水稻的方式是用水淹
 agricraft_journal.millenaire_cropTurmeric=姜黄常常被用作香辛料或是咖喱。
 
 //harvest the nether
-agricraft_journal.harvestTheNether_bloodleaf=这种植物的叶子似乎在分泌一种粘粘的...红色的...液体，这...这是血液?
+agricraft_journal.harvestTheNether_bloodleaf=这种植物的叶子似乎在分泌一种粘粘的……红色的……液体，这……这是血液?
 agricraft_journal.harvestTheNether_fleshroot=地狱猎犬喜欢以这种多肉的植物的根为食物。
 agricraft_journal.harvestTheNether_glowflower=种植这种漂亮的花朵能得到萤石粉。
 agricraft_journal.harvestTheNether_marrowberry=这种浆果吃起来味道怪怪的。
